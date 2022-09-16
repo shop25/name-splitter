@@ -2,6 +2,9 @@
   "name": "s25/name-splitter",
   "description": "Package for split russian full names",
   "type": "library",
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  },
   "authors": [
     {
       "name": "Alexander",
